@@ -96,6 +96,9 @@ body {
     }
 
     span {
+        position: relative;
+        left: -120px;
+
         img {
             margin: 0;
         }
@@ -103,7 +106,6 @@ body {
 }
 
 .fturspara {
-    width: 755px;
     text-align: left;
 }
 
@@ -146,7 +148,7 @@ body {
 }
 
 .gg {
-    display: none;
+    width: ;
 }
 
 .aa:hover {
@@ -178,15 +180,16 @@ body {
         }
 
         span {
+            left: 0;
+
             img {
-                margin: 0;
                 width: 300px;
             }
         }
     }
 
     .fturspara {
-        display: none;
+        text-align: center;
     }
 
 
