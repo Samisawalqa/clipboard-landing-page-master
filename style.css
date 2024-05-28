@@ -96,11 +96,9 @@ body {
     }
 
     span {
-        position: relative;
-        left: -120px;
-
         img {
             margin: 0;
+            margin-right: 30px;
         }
     }
 }
@@ -109,6 +107,11 @@ body {
     text-align: left;
 }
 
+.fturspos {
+    overflow: hidden;
+    position: relative;
+    left: -150px;
+}
 
 
 
@@ -147,9 +150,6 @@ body {
     margin-left: 150px;
 }
 
-.gg {
-    width: ;
-}
 
 .aa:hover {
     cursor: pointer;
@@ -231,8 +231,5 @@ body {
         margin-left: 0;
     }
 
-    .gg {
-        display: block;
-    }
 
 }
